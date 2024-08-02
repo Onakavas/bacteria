@@ -7,3 +7,4 @@ sock.connect(('localhost', 10000))
 
 while True:
     sock.send('Привет'.encode())
+    #
